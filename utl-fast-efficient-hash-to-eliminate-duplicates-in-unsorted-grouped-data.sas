@@ -12,7 +12,7 @@ https://communities.sas.com/t5/SAS-Programming/Multiple-records/m-p/600443
 Novinosrin
 https://communities.sas.com/t5/user/viewprofilepage/user-id/138205
 
-DonH  (add Don's suggestion)
+Paul Dorfman
 https://communities.sas.com/t5/user/viewprofilepage/user-id/13569
 
 *_                   _
@@ -112,7 +112,7 @@ end;
 run;
 
 
-DonH comment (has been applied)
+Paul Dorfman
 A little note, if I may: Here you can call the ADD method unassigned (i.e. without coding rc=) because due
 to the subsetting IF logic, it is always successful - the method is called only when the key is not
 in the table, and so there's no risk of getting a method call error.
